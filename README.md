@@ -1,11 +1,13 @@
-# babel-plugin-replace-import-extension
+# @aminya/babel-plugin-replace-import-extension
+
+Note: this is a temporary fork until [this pull request](https://github.com/silane/babel-plugin-replace-import-extension/pull/9) is merged.
 
 Babel plugin to replace extension of file name written in import statement and
 dynamic import.
 
 ## Installation
 ```shell
-npm install --save-dev babel-plugin-replace-import-extension
+npm install --save-dev @aminya/babel-plugin-replace-import-extension
 ```
 
 ## Example
